@@ -26,6 +26,18 @@ const defaultLinksGroups: LinkGroup[] = [
     name: 'Qwik UI',
     children: [
       {
+        name: 'Services',
+        href: '/services/',
+      },
+      {
+        name: 'Portfolio',
+        href: '/portfolio/',
+      },
+      {
+        name: 'Demo',
+        href: '/demo/',
+      },
+      {
         name: 'Contributing',
         href: '/contributing/',
       },

@@ -40,8 +40,8 @@ export default component$(() => {
   return (
     <div class="flex flex-col items-center gap-8 py-24">
       <h1 class="text-center text-4xl leading-normal lg:text-5xl">
-        <span class="font-extrabold tracking-wide text-primary">Qwik</span>{' '}
-        <span class="font-extrabold tracking-wide text-secondary">UI</span>
+        <span class="font-extrabold tracking-wide text-primary">Portfolio</span>{' '}
+        <span class="font-extrabold tracking-wide text-secondary">Showcase</span>
       </h1>
       <h2 class="text-center text-xl font-bold leading-normal lg:text-3xl">
         Headless & styled copy-paste components
@@ -119,5 +119,5 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Demo',
+  title: 'Portfolio',
 };
