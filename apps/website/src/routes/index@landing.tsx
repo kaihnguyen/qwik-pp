@@ -40,11 +40,11 @@ export default component$(() => {
   return (
     <div class="flex flex-col items-center gap-8 py-24">
       <h1 class="text-center text-4xl leading-normal lg:text-5xl">
-        <span class="font-extrabold tracking-wide text-primary">Qwik</span>{' '}
-        <span class="font-extrabold tracking-wide text-secondary">UI</span>
+        <span class="font-extrabold tracking-wide text-primary">Perfect</span>{' '}
+        <span class="font-extrabold tracking-wide text-secondary">Score</span>
       </h1>
       <h2 class="text-center text-xl font-bold leading-normal lg:text-3xl">
-        Headless & styled copy-paste components
+        Near instant-loading landing pages
         <br />
         <span class="leading-normal text-primary">automatically optimized for you</span>
       </h2>
@@ -67,10 +67,10 @@ export default component$(() => {
               class="w-full rounded-t-sm"
             />
             <Card.Header>
-              <Card.Title class="text-xl">Headless</Card.Title>
+              <Card.Title class="text-xl">Full Service</Card.Title>
               <Card.Description class="text-lg">
-                A headless component library of completely unstyled, accessible, and
-                resumable components for the most creative minds.
+                We scope, design, deliver, support and maintain your site so you can focus
+                on your business priority.
               </Card.Description>
             </Card.Header>
             {/* <Card.Content>
@@ -95,7 +95,7 @@ export default component$(() => {
               class="w-full rounded-t-sm"
             />
             <Card.Header>
-              <Card.Title class="text-xl">Styled</Card.Title>
+              <Card.Title class="text-xl">A-la-Carte</Card.Title>
               <Card.Description class="text-lg">
                 A design system of copy-paste, reusable, styled components built on top of
                 headless. Easy to use, easy to customize.
